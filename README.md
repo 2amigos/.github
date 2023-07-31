@@ -4,7 +4,7 @@
 *<span style='color: #179fb1;'>"Innovation Never Sleeps"</span>*
 
 <p align="center">
-    <img src="./assets/2amigos.png" />
+    <img src="./2amigos.png" />
 </p>
 
 ## Do you have a dream or idea that can change the world?
