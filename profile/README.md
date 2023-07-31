@@ -17,7 +17,7 @@ notions throughout our company. It is essential to create an atmosphere where ou
 colleagues and employees have the opportunity to get deep fulfillment and sincere happiness.
 
 Today 2am. technologies is an organization of system architects, project managers, developers, and 
-designers. We count more than sixty people distributed throughout the world and still bring 
+designers. We are a sizable group of people distributed throughout the world and still bring 
 dreams and ideas into real, practical applications with joy and playful hearts.
 
 *At 2am. technologies, we understand that the most profound discoveries happen when the rest of the 
