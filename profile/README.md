@@ -1,5 +1,5 @@
 
-# Welcome to 2am. technologies
+# Welcome to 2am\.tech
 
 *<span style='color: #179fb1;'>"Innovation Never Sleeps"</span>*
 
@@ -16,18 +16,18 @@ on mutual respect and understanding; we wanted to spread these positive
 notions throughout our company. It is essential to create an atmosphere where our 
 colleagues and employees have the opportunity to get deep fulfillment and sincere happiness.
 
-Today 2am. technologies is an organization of system architects, project managers, developers, and 
+Today 2am\.tech is an organization of system architects, project managers, developers, and 
 designers. We are a sizable group of people distributed throughout the world and still bring 
 dreams and ideas into real, practical applications with joy and playful hearts.
 
-*At 2am. technologies, we understand that the most profound discoveries happen when the rest of the 
+*At 2am\.tech, we understand that the most profound discoveries happen when the rest of the 
 world is fast asleep. That's why our team of passionate night owls is dedicated to crafting 
 revolutionary technologies that shape the future. Armed with a shared vision of driving 
 progress through innovation, we have joined forces to push the boundaries of what's possible.*
 
 ## Our Mission: Revolutionize the Digital Landscape 🚀
 
-Our mission at 2am. technologies is simple yet ambitious: to revolutionize the digital landscape and 
+Our mission at 2am\.tech is simple yet ambitious: to revolutionize the digital landscape and 
 bring cutting-edge solutions that redefine user experiences. We strive to challenge convention, 
 dissolve barriers, and empower individuals and businesses alike to thrive in the rapidly 
 evolving tech ecosystem.
